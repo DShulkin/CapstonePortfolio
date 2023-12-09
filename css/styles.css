@@ -138,7 +138,7 @@ body {
     align-items: flex-end;
     justify-content: flex-end;
     row-gap: 6vh;
-    height: 69vh;
+    height: 72vh;
 
     /* display: grid;
     grid-template-columns: repeat(4, minmax(10px, 1fr));
